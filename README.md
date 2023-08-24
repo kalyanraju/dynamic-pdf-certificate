@@ -30,10 +30,10 @@ Import the library and use it to fill a PDF form:
 
 ```javascript
 
-const { fillPDFForm } = require('dynamic-pdf-form-filler');
+const { fillCertificate } = require('dynamic-pdf-certificate');
 
-const templatePath = 'path/to/your/template.pdf';
-const outputPath = 'path/to/output/filled_form.pdf';
+const templatePath = 'path/to/your/template.pdf'; //include form elements to be filled in your pdf. use adobe pdf or similar tools.
+const outputPath = 'path/to/output/filled_certificate.pdf';
 
 const fieldValues = {
   nameinput: 'John Doe',
@@ -43,7 +43,7 @@ const fieldValues = {
 
 fillPDFForm(templatePath, outputPath, fieldValues)
   .then(() => {
-    console.log('PDF form filled successfully.');
+    console.log('PDF Certificate filled & generated successfully.');
   })
   .catch(error => {
     console.error('An error occurred:', error);
