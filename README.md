@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <h1>Dynamic PDF Certificate</h1>
   <p>A Node.js library to dynamically fill PDF forms.</p>
@@ -7,10 +8,8 @@
 <br>
 
 <div align="center">
-  <!-- Replace with your npm package version badge -->
   <img src="https://img.shields.io/npm/v/dynamic-pdf-certificate.svg" alt="npm version" />
-  <!-- Replace with your license badge -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="npm version" />
 
 </div>
 
