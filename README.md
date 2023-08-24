@@ -10,7 +10,8 @@
   <!-- Replace with your npm package version badge -->
   <img src="https://img.shields.io/npm/v/dynamic-pdf-certificate.svg" alt="npm version" />
   <!-- Replace with your license badge -->
-  <img src="https://img.shields.io/npm/l/dynamic-pdf-certificate.svg" alt="mit" />
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 </div>
 
 <br>
