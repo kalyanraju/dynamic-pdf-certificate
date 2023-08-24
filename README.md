@@ -41,7 +41,7 @@ const fieldValues = {
   courseinput: 'Advanced PDF Editing'
 };
 
-fillPDFForm(templatePath, outputPath, fieldValues)
+fillCertificate(templatePath, outputPath, fieldValues)
   .then(() => {
     console.log('PDF Certificate filled & generated successfully.');
   })
