@@ -1,0 +1,34 @@
+{
+  "name": "dynamic-pdf-certificate",
+  "version": "1.0.0",
+  "description": "This library generates certificates dynamically by filling pdf forms, usefull for courses and workshops.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalyanraju/dynamic-pdf-certificate.git"
+  },
+  "keywords": [
+    "pdf",
+    "certificate",
+    "dynamic",
+    "course",
+    "certificate",
+    "course",
+    "certificate",
+    "filled",
+    "form",
+    "certificate"
+  ],
+  "author": "g kalyan raju",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalyanraju/dynamic-pdf-certificate/issues"
+  },
+  "homepage": "https://github.com/kalyanraju/dynamic-pdf-certificate#readme"
+}
