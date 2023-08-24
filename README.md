@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Dynamic PDF Form Filler</h1>
+  <h1>Dynamic PDF Certificate</h1>
   <p>A Node.js library to dynamically fill PDF forms.</p>
 </div>
 
