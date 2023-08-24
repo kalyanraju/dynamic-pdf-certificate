@@ -24,7 +24,7 @@ The Dynamic PDF Form Filler is a Node.js library that allows you to easily fill 
 Install the library using npm:
 
 ```bash
-npm install dynamic-pdf-form-filler
+npm install dynamic-pdf-certificate
 ```
 Import the library and use it to fill a PDF form:
 
@@ -53,5 +53,5 @@ fillPDFForm(templatePath, outputPath, fieldValues)
 This project is licensed under the MIT License.
 
 <div align="center">
-  Made with ❤️ by Kalyan Raju. | [GitHub](https://github.com/kalyanraju)
+  Made with ❤️ by Kalyan Raju.
 </div>
