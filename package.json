@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "pdf-lib": "^1.10.0"
-  }
+  },
   "keywords": [
     "pdf",
     "certificate",
